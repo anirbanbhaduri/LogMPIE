@@ -1,7 +1,7 @@
 # LogMPIE
 Microbiome Processing Pipeline
 
-The pipeline is a combination of python scripts which process the 16S rRNA data through two different bioinformatics pipelines, QIIME and MOTHUR. The pipeline is being shared under GNU GENERAL PUBLIC LICENSE
+The pipeline is a combination of python scripts which process the 16S rRNA data through two different bioinformatics pipelines, QIIME and MOTHUR. The pipeline is being shared under GNU GENERAL PUBLIC LICENSE.
 
 The script "Main.py" demands user to input the tool he/she requires for their data analysis and then accordingly it will call QIIME (Qiime.py) or MOTHUR (Mothur.py).
 
